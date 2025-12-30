@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello, I'm Eileen! 👋🏻
+
+My coding activity 👩🏻‍💻
+
+![Coding Activity](https://wakatime.com/share/@ba68fde3-6052-4d86-86a0-1f1b62ed6b3c/646be578-6459-4018-96d9-4f0e4eb3da29.png)
+
+Holopin Badges 🫶🏻
 [![An image of @eileenchua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eileenchua)](https://holopin.io/@eileenchua)
