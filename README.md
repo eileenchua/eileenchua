@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 Hello, I'm Eileen! 👋🏻
 
+Building with Angular, TypeScript, and with AI. 
+
 My coding activity 👩🏻‍💻
 
 ![Coding Activity](https://wakatime.com/share/@ba68fde3-6052-4d86-86a0-1f1b62ed6b3c/646be578-6459-4018-96d9-4f0e4eb3da29.png)
