@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 Hello, I'm Eileen! 👋🏻
 
-Building with Angular, TypeScript, and with AI. 
+Building with Angular, TypeScript, and tinkering with AI applications & agents.
+
 
 My coding activity 👩🏻‍💻
 
